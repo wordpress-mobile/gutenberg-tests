@@ -77,6 +77,10 @@ Use Simple WordPress.com site with a Premium plan. Free or Personal plans only a
 
 ##### TC005
 
+**Known Issues**
+
+* IMPORTANT: This test case is currently invalid as the Privacy settings are [unsupported in the native mobile editor](https://github.com/wordpress-mobile/gutenberg-mobile/issues/5640).
+
 **Private video**
 
 - Add a VideoPress block.
