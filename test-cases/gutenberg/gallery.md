@@ -71,11 +71,10 @@ Gallery block should allow uploading multiple images from the device.
 
 **Expected behavior:**
 
-* Gallery should show all images being uploaded as dimmed
-* Progress bars should be displayed indicating the upload progress
-* After each image upload has completed:
-  * Image should not be dim
-  * Image url scheme should be `https://` (not `file:///`) in HTML mode
+- Progress bars should be displayed indicating the upload progress
+- After each image upload has completed:
+  - The progress bar should not be present.
+  - Image url scheme should be `https://` (not `file:///`) in HTML mode
 
 --------------------------------------------------------------------------------
 
