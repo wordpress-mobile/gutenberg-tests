@@ -5,7 +5,7 @@
 
 #### **Precondition**
 
-A site with premium or business plan
+Free or Personal plans are limited to videos that are less than five minutes in length. Currently, there is no size limitation other than the available storage on the user's site.
 
 --------------------------------------------------------------------------------
 
